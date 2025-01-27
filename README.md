@@ -1,4 +1,4 @@
-# Ping Pong
+# Sudoku
 
-A C++ raylib implementation of Ping Pong game.
+A classic sudoku game implementation with Raylib
 
